@@ -11,3 +11,5 @@
 นายสิทธิโชค งามพิพัฒน์โชคชัย 6210612815
 
 Pivotal - https://www.pivotaltracker.com/n/projects/2534291
+
+Heroku - https://damp-garden-30508.herokuapp.com/
