@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Sora';
+}
+
+.container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: auto;
+}
+
+section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.one {
+
+    background: url("Slice1.png");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.two {
+    background: url("Slice1.png");
+    background-size: cover;
+    background-attachment: fixed;
+
+    position: absolute;
+    width: 610px;
+    height: 150px;
+    left: 192px;
+    top: 920px;
+
+    font-family: Sora;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    text-decoration: none;
+
+    color: #FFEDDC;
+}
+
+.three {
+    background: url("Slice1.png");
+    background-size: cover;
+    background-attachment: fixed;
+
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    text-decoration: none;
+
+    color: #FFEDDC;
+}
+
+.content {
+    margin-top: 100px;
+}
+
+.content2 {
+    margin-top: 300px;
+}
+
+.logo {
+    align-items: center;
+    position: absolute;
+    width: 956px;
+    height: 680px;
+
+    background: url("biglogo2.png");
+}
+
+.rice {
+    position: absolute;
+    width: 963px;
+    height: 683px;
+    left: 1200px;
+    top: 54px;
+
+    background: url("firerice2.png");
+}
